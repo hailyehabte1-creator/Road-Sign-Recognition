@@ -1,3 +1,14 @@
+Debre Berhan University
+College of Computing
+Department of Computer Science
+Group Members:
+ Name ID-No
+1. Hailye H/Giworgis   dbue/0746/13 
+2. Adamu Abebaw        dbue/0701/13 
+3. Tsige Tilahun       dbue/0788/13 
+4. Yemisrach Girma     dbue/0792/13 
+5. Leul Aschenaki       dbue/0754/1
+Course: Selected Topics in Computer Science (CoSc4132)
 Road Sign Recognition (GTSRB) using Transfer Learning
  Project Overview
 
